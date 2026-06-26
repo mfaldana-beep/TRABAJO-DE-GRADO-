@@ -1,0 +1,12 @@
+# Temporales de ofimática
+~$*.docx
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Sistema
+.DS_Store
+Thumbs.db
